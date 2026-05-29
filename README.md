@@ -33,6 +33,9 @@ The lab includes 8 routers and multiple VPCS hosts. Routers R1, R2, R3, and R4 f
 
 The project also includes route summarization and an external connected network redistributed into OSPF through R3.
 
+## Topology
+<img width="516" height="287" alt="Topology" src="https://github.com/user-attachments/assets/63d03afc-39e7-4307-9be6-92a56035d6fe" />
+
 ## Verification
 
 The network was tested using ping, traceroute, and OSPF verification commands. The results confirmed that hosts on different subnets could communicate across the routed network and that OSPF neighbor relationships formed correctly.
