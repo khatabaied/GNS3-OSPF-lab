@@ -56,3 +56,9 @@ show ip ospf database
 show ip route
 ping <destination-ip>
 trace <destination-ip>
+
+## Copyright
+
+© 2026 Khatab Aied. All rights reserved.
+
+This repository is shared publicly for portfolio and educational viewing purposes only. Do not copy, redistribute, or submit this work as your own.
