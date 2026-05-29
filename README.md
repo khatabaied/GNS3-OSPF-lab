@@ -41,6 +41,13 @@ The project also includes route summarization and an external connected network 
 
 The network was tested using ping, traceroute, and OSPF verification commands. The results confirmed that hosts on different subnets could communicate across the routed network and that OSPF neighbor relationships formed correctly.
 
+### OSPF Neighbor Verification
+![OSPF Neighbor Verification](R1_neighbor_ospf_test.png) 
+
+### Traceroute Verification
+
+![Traceroute Verification](ping_trace_V6A_test.png)
+
 Example commands used:
 
 ```bash
